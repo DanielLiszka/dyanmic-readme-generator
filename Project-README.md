@@ -1,14 +1,16 @@
-# [Dyanmic Readme Generator]
+# Dyanmic Readme Generator
+
 ## Description
-This application will create a dynamic readme file based on user input
+ This application will create a dynamic readme file based on user input
 
 ## Table of Contents
 * [Install](#install)
 * [Usage](#usage)
 * [License](#license)
 * [Contribute](#contribute)
-* [Tests](#tests)
 * [Questions](#questions)
+* [Tests](#tests)
+
 
 
 ## Installation

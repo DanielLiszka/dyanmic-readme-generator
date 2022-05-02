@@ -29,7 +29,8 @@ const link_to_lincese = renderLicenseLink(details_license);
 const license_information = renderLicenseSection(details_license,data);
 
 
-return `# [${data.title}]
+return `# ${data.title}
+
 ## Description
 ${data.description}
 
@@ -38,8 +39,9 @@ ${data.description}
 * [Usage](#usage)
 * [License](#license)
 * [Contribute](#contribute)
-* [Tests](#tests)
 * [Questions](#questions)
+* [Tests](#tests)
+
 
 
 ## Installation
