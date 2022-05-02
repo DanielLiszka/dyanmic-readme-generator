@@ -1,4 +1,5 @@
-# [dynamic readme generator]
+# dynamic readme generator
+
 ## Description
 An application was made to generate a dynamic professional README depending on user input 
 
