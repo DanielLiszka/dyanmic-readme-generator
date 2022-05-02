@@ -1,6 +1,6 @@
-# [d]
+# [Dyanmic Readme Generator]
 ## Description
-d
+This application will create a dynamic readme file based on user input
 
 ## Table of Contents
 * [Install](#install)
@@ -12,10 +12,10 @@ d
 
 
 ## Installation
-d
+Run "NPM install" first to install require packages
 
 ## Usage
-d
+Run "node index.js" to run it
 
 ## License
   GNU
@@ -24,10 +24,10 @@ Link complete license()
 ![license badge](https://img.shields.io/badge/License-false-blue)
 
 ## Contribute
-d
+Please look at the issues tab first
 
 ## Tests
-d
+npm test
 
 ## Questions
-Email [d] questions regarding the repository.
+Email [danielliszka@gmail.com] questions regarding the repository.
