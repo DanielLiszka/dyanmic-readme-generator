@@ -175,7 +175,6 @@ function licenseData() {
 // function to write README file 
 const writeFile = data => {
     fs.writeFileSync('Project-README.md', data)
-    console.log("Your README has been successfully created!")
 }; 
 
 //initialize
